@@ -1,3 +1,1 @@
-# programs
-string=input()
-print(string[::-1])
+Python Basic programs
